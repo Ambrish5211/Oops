@@ -55,3 +55,6 @@ int main(){
    
     return 0;
 }
+
+
+// To restrict user from creating a constructor, we set it as private.
